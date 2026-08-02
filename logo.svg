@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">GodoziCodes cat monogram</title>
+  <desc id="desc">Black and white GC monogram with a resting cat.</desc>
+  <rect width="512" height="512" fill="#ffffff"/>
+  <g fill="none" stroke="#050505" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M368 96C280 45 159 78 103 165C44 257 76 382 166 430C250 474 357 444 416 368" stroke-width="34"/>
+    <path d="M390 170C329 125 227 142 183 212C139 281 164 374 239 409C301 438 376 417 416 363" stroke-width="30"/>
+    <path d="M144 242H397" stroke-width="24"/>
+    <path d="M238 238L183 313" stroke-width="22"/>
+    <path d="M397 242L364 284" stroke-width="22"/>
+  </g>
+  <g fill="#050505">
+    <path d="M251 205c-26-3-47 7-61 23l9-46 26 20 28-17 4 23c22-3 42 2 58 15 20 16 30 40 29 65-2 38-31 68-70 72-39 4-76-20-88-57-11-34 2-71 32-89 10-6 21-9 33-9z"/>
+    <path d="M318 217c41 8 73 38 79 76 5 33-9 67-37 87 10-25 10-53 0-80-11-31-31-58-42-83z"/>
+    <path d="M378 230c26-6 50 6 63 27 15 24 14 54-2 76 3-22-2-43-14-61-12-18-28-32-47-42z"/>
+  </g>
+  <g stroke="#ffffff" stroke-width="10" stroke-linecap="round">
+    <path d="M218 253l18 4"/>
+    <path d="M279 253l18-4"/>
+    <path d="M248 279l10 0"/>
+    <path d="M236 292c8 10 22 10 30 0" fill="none"/>
+  </g>
+</svg>
